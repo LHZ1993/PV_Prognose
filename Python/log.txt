@@ -1,0 +1,31 @@
+Zeit,Info
+0,0
+0,0
+2019-03-27 15:49:00.002678,save_as_txt() missing 1 required positional argument: 'path'
+2019-03-27 15:51:00.002555,save_as_txt() missing 1 required positional argument: 'path'
+2019-03-27 16:00:00.004937,save_as_txt() missing 1 required positional argument: 'path'
+2019-04-02 23:18:00.529090,arrays must all be same length
+2019-04-02 23:20:00.159271,arrays must all be same length
+2019-04-02 23:32:00.333255,arrays must all be same length
+2019-04-02 23:54:00.785528,arrays must all be same length
+2019-05-24 16:21:59.410736,name 'database_index_1' is not defined
+2019-05-24 17:58:33.692522,-1
+2019-05-24 18:46:38.112285,-1
+2019-05-27 13:03:20.063147,'Timestamp' object is not subscriptable
+2019-05-27 13:46:16.498428,'Timestamp' object is not subscriptable
+2019-05-27 13:53:47.901024,cannot unpack non-iterable NoneType object
+2019-05-27 14:03:04.479317,cannot unpack non-iterable NoneType object
+2019-05-27 14:31:53.671978,"The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()."
+2019-05-27 15:16:33.275456,too many values to unpack (expected 4)
+2019-05-27 15:46:02.800456,"The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()."
+2019-05-27 16:20:56.647302,"The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()."
+2019-05-27 17:16:26.131759,name 'Heute' is not defined
+2019-05-27 17:46:09.887691,'list' object has no attribute 'to_sql'
+2019-05-27 18:31:16.657878,-1
+2019-05-27 19:31:10.957962,-1
+2019-05-28 13:31:45.050148,arrays must all be same length
+2019-05-29 15:16:11.148068,arrays must all be same length
+2019-05-29 16:46:34.822238,arrays must all be same length
+2019-05-30 15:31:52.571703,arrays must all be same length
+2019-06-02 12:31:26.440846,Execution failed on sql 'SELECT * FROM Wetter ORDER BY Zeit ASC': no such table: Wetter
+2019-06-02 15:52:14.990298,Execution failed on sql 'SELECT * FROM Wetter ORDER BY Zeit ASC': no such table: Wetter
