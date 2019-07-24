@@ -17,5 +17,5 @@ clear;
 close all;
 
 %delete *.mat
-tic %Start der Zeitrechnung --> mit "toc" die Rechenzeit
+%tic %Start der Zeitrechnung --> mit "toc" die Rechenzeit
 %profile on %-history % Zeigt unter anderem Verbrauchte Rechenzeit einzelner Prozesse an
